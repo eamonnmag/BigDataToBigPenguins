@@ -3,6 +3,9 @@
 	"name": "Big Data To Big Bollocks",
 	"version": "1.0",
 	"description": "Replaces the text 'big data' with 'big bollocks'.",
+	"icons": {
+    "128": "bigdata-bollocks.png"
+  },
 	"content_scripts": 
 	[
 		{
