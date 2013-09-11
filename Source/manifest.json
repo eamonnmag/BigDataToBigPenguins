@@ -1,10 +1,10 @@
 {
 	"manifest_version": 2,
-	"name": "Big Data To Big Bollocks",
+	"name": "Big Bollocks To Big Penguins",
 	"version": "1.0",
-	"description": "Replaces the text 'big data' with 'big bollocks'.",
+	"description": "Replaces the text 'big data' with 'big penguins'.",
 	"icons": {
-    "128": "bigdata-bollocks.png"
+    "128": "bigdata-penguins.png"
   },
 	"content_scripts": 
 	[
