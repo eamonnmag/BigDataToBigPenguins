@@ -1,21 +1,16 @@
-Big bollocks to Big Bollocks
+Big Data to Big Penguins
 =============
 
-<img src="https://isatools.files.wordpress.com/2013/09/bigdata-bollocks.png" align="center" alt="Logo"/>
-
-Chrome extension that replaces occurrences of 'big data' with 'big bollocks'.
-
-Note that there are forks of this extension that simply replace 'data' with 'bollocks'.
+Chrome extension that replaces occurrences of 'big data' with 'big penguins'.
 
 
 Screenshot Gallery
 ------------------
 
-
-<img src="https://isatools.files.wordpress.com/2013/09/screen-shot-2013-09-10-at-12-02-11.png?w=714" align="center" alt="Screenshot"/>
+Coming soon...
 
 Installation
 ------------
-Download BigDataToBigBollocks.crx
+Download BigDataToBigPenguins.crx
 
-In Chrome, choose Window > Extensions.  Drag BigDataToBigBollocks.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag BigDataToBigPenguins.crx into the page that appears.
