@@ -30,12 +30,10 @@ function walk(node)
 function handleText(textNode) 
 {
 	var v = textNode.nodeValue;
-	console.log("Looking at " + v);
-	v = v.replace(/\bBig Data\b/g, "Big Bollocks");
-	v = v.replace(/\bBig data\b/g, "Big bollocks");
-	v = v.replace(/\bbig Data\b/g, "big Bollocks");
-	v = v.replace(/\big data\b/g, "big bollocks");
-	console.log("V is now " + v);
+	v = v.replace(/\bBig Data\b/g, "Big Penguins");
+	v = v.replace(/\bBig data\b/g, "Big penguins");
+	v = v.replace(/\bbig Data\b/g, "big Penguins");
+	v = v.replace(/\big data\b/g, "big penguins");
 	textNode.nodeValue = v;
 }
 
